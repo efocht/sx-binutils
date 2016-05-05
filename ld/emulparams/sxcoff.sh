@@ -1,0 +1,4 @@
+ARCH=sx
+SCRIPT_NAME=sxcoff
+OUTPUT_FORMAT="coff-sx64"
+TEMPLATE_NAME=sxcoff
